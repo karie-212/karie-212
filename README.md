@@ -8,7 +8,7 @@ Currently looking for a **backend developer internship**.
 
 ## GitHub Stats
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Karie206&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=karie-212&theme=github_dark&hide_border=true" />
 </p>
 
 ## Socials
@@ -21,7 +21,7 @@ Currently looking for a **backend developer internship**.
 
 ## Profile View
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Karie206&style=flat&color=4A9FD8"/>
+  <img src="https://komarev.com/ghpvc/?username=karie-212&style=flat&color=4A9FD8"/>
 </p>
 
 <div align="center">
