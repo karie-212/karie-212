@@ -21,7 +21,7 @@ Currently looking for a **backend developer internship**.
 
 ## Profile View
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=karie-212&style=flat&color=4A9FD8"/>
+  <img src="https://komarev.com/ghpvc/?username=Karie206&style=flat&color=4A9FD8"/>
 </p>
 
 <div align="center">
