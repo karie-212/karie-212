@@ -7,7 +7,7 @@ Second-year Computer Science student at Dong Thap University who enjoys building
 Currently looking for a **backend developer internship**.  
 
 ## GitHub Stats
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=karie-212&theme=github_dark&hide_border=true" />
 </p>
 
