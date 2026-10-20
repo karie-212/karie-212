@@ -19,11 +19,6 @@ Currently looking for a **backend developer internship**.
   <a href="https://youtube.com/@karie.06s"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 </p>
 
-## Profile View
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=karie-212&style=flat&color=4A9FD8"/>
-</p>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
