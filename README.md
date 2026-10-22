@@ -27,6 +27,3 @@ Currently looking for a **backend developer internship**.
 
 <br/>
 
-<div align="center">
-  <img src="./assets/line.svg" alt="" width="100%" />
-</div>
