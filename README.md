@@ -1,7 +1,7 @@
 <!-- <p align="center">
   <img src="hero-api.svg" alt="GET /v1/developers/karie206 — 200 OK" width="900">
 </p> -->
- 
+
 ## About Me
 Second-year Computer Science student at Dong Thap University who enjoys building backend systems.  
 Currently looking for a **backend developer internship**.  
