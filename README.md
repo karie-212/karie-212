@@ -1,17 +1,18 @@
-<!-- <p align="center">
-  <img src="hero-api.svg" alt="GET /v1/developers/karie206 — 200 OK" width="900">
-</p> -->
+<div align="center">
+  <img src="./ascii-rest-earthrise.gif" alt="ascii earthrise" width="480" />
+</div>
+
 ## About Me
 Second-year Computer Science student at Dong Thap University who enjoys building backend systems.  
 Currently looking for a **backend developer internship**.  
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=karie-212&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=karie-212&theme=github_dark&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00E676&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=8B949E" />
 </p>
 
 ## Socials
-<p>
+<p align="center">
   <a href="https://github.com/karie-212"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
   <a href="mailto:thaikiet519@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.tiktok.com/@kariebel"><img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white"/></a>
@@ -25,4 +26,3 @@ Currently looking for a **backend developer internship**.
 </div>
 
 <br/>
-
