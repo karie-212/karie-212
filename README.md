@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./ascii-rest-earthrise.gif" alt="ascii earthrise" width="480" />
+  <img src="./ascii-rest-earthrise.gif" alt="ascii earthrise" width="700" />
 </div>
 
 ## About Me
