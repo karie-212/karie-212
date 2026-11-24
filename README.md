@@ -24,5 +24,9 @@ Currently looking for a **backend developer internship**.
 <br/> 
 
 <div align="center">
-  <img src="./ascii-rest-earthrise.gif" alt="ascii earthrise" width="900" />
+  <img src="./ascii-rest-saturn-rise.gif" alt="ascii earthrise" width="900" />
 </div>
+
+<!-- <div align="center">
+  <img src="./ascii-rest-earthrise.gif" alt="ascii earthrise" width="900" />
+</div> -->
